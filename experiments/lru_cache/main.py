@@ -9,7 +9,7 @@ def fib(n: int) -> int:
 
 
 def main() -> None:
-    for i in range(0, 40):
+    for i in range(0, 100):
         print(f"fib({i}) = {fib(i)}")
 
 
