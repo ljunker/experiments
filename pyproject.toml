@@ -1,0 +1,6 @@
+[project]
+name = "trystuff"
+version = "0.1.0"
+description = "Sandbox fuer isolierte Python-Experimente mit gemeinsamer .venv"
+requires-python = ">=3.13"
+dependencies = []
